@@ -1,5 +1,5 @@
 ---
-title: Typesetting Math in Texts
+title: Recruitment Best Practices
 ---
 
 Basic math
