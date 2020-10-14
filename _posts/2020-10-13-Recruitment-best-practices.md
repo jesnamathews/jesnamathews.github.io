@@ -73,7 +73,7 @@ Make sure to stay on top of industry trends regarding compensation, and make sur
 <li>Project positive image of the company. </li></ul>
 
 ## **Use the benefits the firm offers to your advantage in recruiting employees**
-Everything other than pay package ranging from reimbursement for continuing education to vacation discounts, PTO,401k, health benefits which includes HSAs, FSAs & HRAs and free snacks/meals can help attract top talent and sway them your way when making a job decision. Organizations can take the help of a <span style="color:blue;">Professional Employer organization(PEO)></span>which can help with the benefits
+Everything other than pay package ranging from reimbursement for continuing education to vacation discounts, PTO,401k, health benefits which includes HSAs, FSAs & HRAs and free snacks/meals can help attract top talent and sway them your way when making a job decision. Organizations can take the help of a <i><span style="color:blue;">Professional Employer organization(PEO)</span></i>which can help with the benefits
 
 ## **Hire the Person best fit for the role you can Find**
 It is best to use the approach mentioned here for finding the smartest person you can find. *“Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.”* 
