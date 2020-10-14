@@ -17,7 +17,7 @@ Diverse candidate pool will flock top talent to your organization which can be a
 
 ## **Diversity and Inclusion**
 Diversity and Inclusion is the latest trend as diverse executive boards generate better returns for the organization. Diverse groups bring breadth of mind and opinion and are generally happier thus leading to lower attrition rates. Diverse groups produce more revenue and are more agile. Folowing are the different ways in which you can ensure you are sourcing candidates diversely:
-<ul><li>Look in the right places by posting on websites and forums like **Diversity Jobs, Hire Autism and Pink Jobs** that cater to diverse and wide range of talent.</li> 
+<ul><li>Look in the right places by posting on websites and forums like Diversity Jobs, Hire Autism and Pink Jobs that cater to diverse and wide range of talent.</li> 
 <li>Write an inclusive job description.</li>
 <li>Make your commitment to diversity clear on the careers site.</li>
 <li>Teach yourself how to avoid unconscious biases.</li>
@@ -25,9 +25,10 @@ Diversity and Inclusion is the latest trend as diverse executive boards generate
 
 ##	**Technological Trends**
 Here are technological trends that recruiting professionals need to take advantage of in their quest to attracting the top talent:
-<ul><li>Recruiters are turning to recruitment software to help them increase the efficiency of the process.Most of the organizations are using some form of **Applicant Tracking Systems(ATS)**. ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
-<li>Hiring Managers are using **Big data analysis** to provide insights to businesses to make strategic hiring decisions.In HR, utilizing a data-driven approach to **people analytics** allows employers to discover valuable insights on employee performance and satisfaction and what influences their productivity and motivation.</li>
-<li>**Artificial intelligence(AI)** is being used to take care of your most repetitive tasks like CV screening, searching candidates that match criteria like LinkedIn recruiter which is an AI enabled recruitment software. Other AI-based technologies – Chatbots – helps you respond to different candidate questions. AI helps reduce the workload, especially where you have to handle repetitive tasks. And, that simplifies your job, improves the general ‘customer’ experience and also leads to huge savings of time resource.</li></ul>
+<ul><li>Recruiters are turning to recruitment software to help them increase the efficiency of the process.Most of the organizations are using some form of 
+Applicant Tracking Systems (ATS). ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
+<li>Hiring Managers are using Big data analysis to provide insights to businesses to make strategic hiring decisions.In HR, utilizing a data-driven approach to people analytics allows employers to discover valuable insights on employee performance and satisfaction and what influences their productivity and motivation.</li>
+<li>Artificial intelligence(AI) is being used to take care of your most repetitive tasks like CV screening, searching candidates that match criteria like LinkedIn recruiter which is an AI enabled recruitment software. Other AI-based technologies – Chatbots – helps you respond to different candidate questions. AI helps reduce the workload, especially where you have to handle repetitive tasks. And, that simplifies your job, improves the general ‘customer’ experience and also leads to huge savings of time resource.</li></ul>
 
 ## **Hire the Best Fit when recruiting employees**
 *“As Past Behavior is a predictor of future behavior”*, it is best to look for proven record of applicants with good background in place of selecting potential candidates. Look out for the following traits in the applicants:
