@@ -76,7 +76,7 @@ Make sure to stay on top of industry trends regarding compensation, and make sur
 Everything other than pay package ranging from reimbursement for continuing education to vacation discounts, PTO,401k, health benefits which includes HSAs, FSAs & HRAs and free snacks/meals can help attract top talent and sway them your way when making a job decision. Organizations can take the help of a PEO (Professional Employer organization) which can help with the benefits
 
 ## **Hire the Person best fit for the role you can Find**
-It is best to use the approach of finding the smartest person you can find. *“Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.”* 
+It is best to use the approach mentioned here for finding the smartest person you can find. *“Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.”* 
 Following strategies can be employed to find out if the applicant is best for the job:
 <ul><li>Figure out what role they will play beyond job description.</li>
 <li>Have some basic idea of what their job duties and responsibilities in their current firm.</li>
