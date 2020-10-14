@@ -1,5 +1,5 @@
 ---
-title: Recruitment Best Practices
+title: Recruitment Trends
 ---
 
 In today’s world of rapid technological advancement and its unique set of challenges like the ongoing pandemic, recruitment has become very difficult. Hiring employees has become much more difficult now than at any other time in modern history, mainly for two reasons. 
@@ -8,7 +8,6 @@ The first is that openings are now filled more often by hiring from an outside s
 Here are some best practices in recruitment which can be implemented in your organization to improve hiring of talented candidates:
 
 ## **Diversify your applicant listing when recruiting employees**
-
 Diverse candidate pool will flock top talent to your organization which can be achieved by different strategies:
 <ul><li>Make the listing interesting by choosing relevant job titles and keywords in the job description.</li>
 <li>Use your creativity to make the job advertisement more appealing to potential candidates as it goes a long way in recruiting the best fit for the organization.</li> 
@@ -17,8 +16,7 @@ Diverse candidate pool will flock top talent to your organization which can be a
 <li>Market your company culture through the company website and social media channels to attract top talent who are aligned with the mission, vision and values of the organization.</li></ul>
 
 ## **Diversity and Inclusion**
-
-Diversity and Inclusion is the latest trend as diverse executive boards generate better returns for the organization. Diverse groups bring breadth of mind and opinion and are generally happier thus leading to lower attrition rates. Diverse groups produce more revenue and are more agile. Different ways in which you can ensure you are sourcing candidates diversely:
+Diversity and Inclusion is the latest trend as diverse executive boards generate better returns for the organization. Diverse groups bring breadth of mind and opinion and are generally happier thus leading to lower attrition rates. Diverse groups produce more revenue and are more agile. Folowing are the different ways in which you can ensure you are sourcing candidates diversely:
 <ul><li>Look in the right places by posting on websites and forums like diversity Jobs, Hire Autism and Pink Jobs that cater to diverse and wide range of talent.</li> 
 <li>Write an inclusive job description.</li>
 <li>Make your commitment to diversity clear on the careers site.</li>
@@ -26,13 +24,13 @@ Diversity and Inclusion is the latest trend as diverse executive boards generate
 <li>Be authentic about your diversity goals.</li></ul>
 
 ##	**Turning to Technology**
-Recruiters are turning to recruitment software to help them increase the efficiency of the process.
-<ul><li>Most of the organizations are using some form of Applicant Tracking Systems. ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
+Here are technological trends that recruiting professionals need to take advantage of in their quest to attracting the top talent:
+<ul><li>Recruiters are turning to recruitment software to help them increase the efficiency of the process.Most of the organizations are using some form of Applicant Tracking Systems. ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
 <li>Hiring Managers are using Big data analysis to provide insights to businesses to make strategic hiring decisions. That means recruiters need to come up with, among others, talent intelligence strategies that makes use of data to make intelligent hiring decisions.</li>
 <li>Artificial intelligence is being used to take care of your most repetitive tasks like CV screening, searching candidates that match criteria like LinkedIn recruiter which is an AI enabled recruitment software. Other AI-based technologies – Chatbots – helps you respond to different candidate questions. AI helps reduce the workload, especially where you have to handle repetitive tasks. And, that simplifies your job, improves the general ‘customer’ experience and also leads to huge savings of time resource.</li></ul>
 
 ## **Hire the Best Fit when recruiting employees**
-“As Past Behavior is a predictor of future behavior”, it is best to look for proven record of applicants with good background in place of selecting potential candidates. Look out for the below traits in the applicants:
+“As Past Behavior is a predictor of future behavior”, it is best to look for proven record of applicants with good background in place of selecting potential candidates. Look out for the following traits in the applicants:
 <ul><li>Competency.</li>
 <li>Long Haul or commitment to the company.</li>
 <li>Team Player.</li>
@@ -40,7 +38,7 @@ Recruiters are turning to recruitment software to help them increase the efficie
 <li>Attitude.</li></ul>
 
 ## **Give Preference to Internal recruitment/In-house employees**
-If you hire candidates from an outside source first , existing staff may get demotivated, this may lead to employee turnover. Internal candidates already know the operation of the organization, so it is best to utilize them to their fullest potential before recruiting externally. Hence, Internal recruitment is the best place to start because of the reasons:
+If you hire candidates from an outside source first , existing staff may get demotivated, this may lead to employee turnover. Internal candidates already know the operation of the organization, so it is best to utilize them to their fullest potential before recruiting externally. Hence, Internal recruitment is the best place to start because of the following reasons:
 <ul><li>Saves time and money.</li>
 <li>Reduces training and development time.</li>
 <li>Improves productivity.</li>
