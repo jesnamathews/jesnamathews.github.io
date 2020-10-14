@@ -1,5 +1,5 @@
 ---
-title: Recruitment Trends
+title: Recruitment Strategies and New Trends
 ---
 
 In today’s world of rapid technological advancement and its unique set of challenges like the ongoing pandemic, recruitment has become very difficult. Hiring employees has become much more difficult now than at any other time in modern history, mainly for two reasons. 
@@ -8,7 +8,7 @@ The first is that openings are now filled more often by hiring from an outside s
 Here are some best practices in recruitment which can be implemented in your organization to improve hiring of talented candidates:
 
 ## **Diversify your applicant listing when recruiting employees**
-Diverse candidate pool will flock top talent to your organization which can be achieved by different strategies:
+Diverse candidate pool will flock top talent to your organization which can be achieved by different strategies mentioned here:
 <ul><li>Make the listing interesting by choosing relevant job titles and keywords in the job description.</li>
 <li>Use your creativity to make the job advertisement more appealing to potential candidates as it goes a long way in recruiting the best fit for the organization.</li> 
 <li>Utilize different social media channels while recruiting. Although LinkedIn is the most popular choice among recruiters, the other channels like Facebook or Instagram are also very beneficial. Talent communities like Stack Overflow, GitHub are great for engineering roles.</li>
@@ -46,7 +46,7 @@ If you hire candidates from an outside source first , existing staff may get dem
 <li>Facilitates promotion or succession planning.</li></ul>
 
 ## **Employer Branding/Recruitment Marketing**
-If your organization has a good reputation and image in market, top talent will automatically be interested in vacancies in the firm. Employer Branding or recruitment marketing can be achieved using different ways: 
+If your organization has a good reputation and image in market, top talent will automatically be interested in vacancies in the firm. Employer Branding or recruitment marketing can be achieved using the following ways: 
 <ul><li>Know your company’s unique value proposition or EVP which includes salary,compensation and benefits (supplementary compensation, values, mission & purpose, people and culture)</li>
 <li>Conduct an employer brand audit.</li>
 <li>Write an employee value proposition.</li>
@@ -57,14 +57,14 @@ If your organization has a good reputation and image in market, top talent will 
 <li>Create a strong diversity and inclusion initiative.</li></ul>
 
 ## **Involve your employees in the Hiring Process**
-Utilizing the network and contacts of your existing employees can drastically improve the recruitment process :
+Utilizing the network and contacts of your existing employees can drastically improve the recruitment process and esnure the benefits mentioned here:
 <ul><li>Creates more accountability.</li>
 <li>Connects employees with company success.</li>
 <li>Eases onboarding.</li>
 <li>Makes for a stronger cultural fit.</li></ul>
 
 ## **Pay better than you Competition**
-Make sure to stay on top of industry trends regarding compensation, and make sure that your organization is at the head of the pack in terms of offerings. Different strategies can be used to ensure better pay:
+Make sure to stay on top of industry trends regarding compensation, and make sure that your organization is at the head of the pack in terms of offerings. The following strategies can be used to ensure better pay:
 <ul><li>Take note of the competitive advantage of the employers in the same line of business.</li>
 <li>Analyze how they approach marketing.</li>
 <li>Understand their financial standings and budget.</li>
@@ -76,20 +76,20 @@ Everything other than pay package ranging from reimbursement for continuing educ
 
 ## **Hire the Person best fit for the role you can Find**
 It is best to use the approach of finding the smartest person you can find. “Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.” 
-Different ways which can be employed to find out if the applicant is best for the job:
+Following strategies can be employed to find out if the applicant is best for the job:
 <ul><li>Figure out what role they will play beyond job description.</li>
 <li>Have some basic idea of what their job duties and responsibilities in their current firm.</li>
 <li>Watch out for an ego or attitude problem.</li></ul>
 
 ## **Use Your Website As a Powerful tool for Recruiting**
-If there’s a clear, well designed website marketing the company and user-friendly career section with information on open job opportunities, it will be easier to attract top talent to the organization. A website can be become a powerful tool for recruiting by incorporating the features:
+If there’s a clear, well designed website marketing the company and user-friendly career section with information on open job opportunities, it will be easier to attract top talent to the organization. A website can be become a powerful tool for recruiting by incorporating the following  features:
 <ul><li>Your company’s history.</li>
 <li>An easy way to look at open positions.</li>
 <li>Display the current work and achievements of the firm.</li>
 <li>Introduce the management team.</li></ul>
 
 ## **Check references when recruiting employees**
-Eventhough an applicant is the best match for the job and you are super excited to onboard them, make sure to devote time to do background check of the prospective employee.The benefits of checking references will reinstate the decision made for the organization:
+Eventhough an applicant is the best match for the job and you are super excited to onboard them, make sure to devote time to do background check of the prospective employee.The folowing are benefits of checking references:
 <ul><li>It helps in verifying the information already provided by the applicant.</li>
 <li>Offers additional information on an applicant’s skills, performance, knowledge and work history from a source other than the candidate themselves.</li>
 <li>Helps you assess the applicant’s potential for success in the position.</li>
@@ -97,7 +97,7 @@ Eventhough an applicant is the best match for the job and you are super excited 
 <li>Protects the organization from claims of negligent hiring.</li></ul>
 
 ## **Remote Working**
-When COVID-19 forced companies all over the world to send their employees home to work virtually, remote work had a big moment. Working remotely can give employees the time and environment needed to make healthy choices:
+When COVID-19 forced companies all over the world to send their employees home to work virtually, remote work had a big moment. Working remotely can give employees the time and environment needed to make healthy choices and the following benefits:
 <ul><li>Better Work-Life Balance as it offers flexible schedules to employees.</li> 
 <li>Less Commute Stress and hence employees get more time to care for their mental and physical well being.</li>
 <li>Location Independence offers broader range of job opportunities that aren’t limited by geographic location.</li>
