@@ -27,7 +27,7 @@ Diversity and Inclusion is the latest trend as diverse executive boards generate
 
 ##	**Turning to Technology**
 Recruiters are turning to recruitment software to help them increase the efficiency of the process.
-<ul><li>Most of the recruiting companies are using some form of Applicant Tracking Systems. ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
+<ul><li>Most of the organizations are using some form of Applicant Tracking Systems. ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
 <li>Hiring Managers are using Big data analysis to provide insights to businesses to make strategic hiring decisions. That means recruiters need to come up with, among others, talent intelligence strategies that makes use of data to make intelligent hiring decisions.</li>
 <li>Artificial intelligence is being used to take care of your most repetitive tasks like CV screening, searching candidates that match criteria like LinkedIn recruiter which is an AI enabled recruitment software. Other AI-based technologies – Chatbots – helps you respond to different candidate questions. AI helps reduce the workload, especially where you have to handle repetitive tasks. And, that simplifies your job, improves the general ‘customer’ experience and also leads to huge savings of time resource.</li></ul>
 
@@ -40,7 +40,7 @@ Recruiters are turning to recruitment software to help them increase the efficie
 <li>Attitude.</li></ul>
 
 ## **Give Preference to Internal recruitment/In-house employees**
-If you hire candidates from an outside source first and existing staff may get demotivated, this may lead to employee turnover. Internal candidates already know the operation of the organization, so it is best to utilize them to their fullest potential before recruiting externally. Hence, Internal recruitment is the best place to start because of the reasons:
+If you hire candidates from an outside source first , existing staff may get demotivated, this may lead to employee turnover. Internal candidates already know the operation of the organization, so it is best to utilize them to their fullest potential before recruiting externally. Hence, Internal recruitment is the best place to start because of the reasons:
 <ul><li>Saves time and money.</li>
 <li>Reduces training and development time.</li>
 <li>Improves productivity.</li>
@@ -49,8 +49,8 @@ If you hire candidates from an outside source first and existing staff may get d
 
 ## **Employer Branding/Recruitment Marketing**
 If your organization has a good reputation and image in market, top talent will automatically be interested in vacancies in the firm. Employer Branding or recruitment marketing can be achieved using different ways: 
-Know your company’s unique value proposition or EVP which includes salary,     compensation and benefits (supplementary compensation, values, mission & purpose, people and culture)
-<ul><li>Conduct an employer brand audit.</li>
+<ul><li>Know your company’s unique value proposition or EVP which includes salary,compensation and benefits (supplementary compensation, values, mission & purpose, people and culture)</li>
+<li>Conduct an employer brand audit.</li>
 <li>Write an employee value proposition.</li>
 <li>Leverage current employees.</li>
 <li>Cultivate a strong onboarding process.</li>
@@ -59,14 +59,14 @@ Know your company’s unique value proposition or EVP which includes salary,    
 <li>Create a strong diversity and inclusion initiative.</li></ul>
 
 ## **Involve your employees in the Hiring Process**
-Utilizing the network and contacts of your existing employees brings different    improvements in recruitment:
+Utilizing the network and contacts of your existing employees can drastically improve the recruitment process :
 <ul><li>Creates more accountability.</li>
 <li>Connects employees with company success.</li>
 <li>Eases onboarding.</li>
 <li>Makes for a stronger cultural fit.</li></ul>
 
 ## **Pay better than you Competition**
-Make sure to stay on top of industry trends regarding compensation, and make sure that your company is at the head of the pack in terms of offerings. Different strategies can be used to ensure better pay:
+Make sure to stay on top of industry trends regarding compensation, and make sure that your organization is at the head of the pack in terms of offerings. Different strategies can be used to ensure better pay:
 <ul><li>Take note of the competitive advantage of the employers in the same line of business.</li>
 <li>Analyze how they approach marketing.</li>
 <li>Understand their financial standings and budget.</li>
@@ -77,20 +77,21 @@ Make sure to stay on top of industry trends regarding compensation, and make sur
 Everything other than pay package ranging from reimbursement for continuing education to vacation discounts, PTO,401k, health benefits which includes HSAs, FSAs & HRAs and free snacks/meals can help attract top talent and sway them your way when making a job decision. Organizations can take the help of a PEO (Professional Employer organization) which can help with the benefits
 
 ## **Hire the Person best fit for the role you can Find**
-It is best to use the inline approach for finding the smartest person you can find. “Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.” Employ different ways to know if the Person is best for the job or not:
+It is best to use the approach of finding the smartest person you can find. “Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.” 
+Different ways which can be employed to find out if the applicant is best for the job:
 <ul><li>Figure out what role they will play beyond job description.</li>
 <li>Have some basic idea of what their job duties and responsibilities in their current firm.</li>
 <li>Watch out for an ego or attitude problem.</li></ul>
 
-## **Use Your Website as a Powerful tool for Recruiting**
-If there’s a clear, well designed website marketing the company and user-friendly career section with information on open job opportunities, it will be easier to attract top talent to the organization. A good website should be focused on recruiting should incorporate the features:
+## **Use Your Website As a Powerful tool for Recruiting**
+If there’s a clear, well designed website marketing the company and user-friendly career section with information on open job opportunities, it will be easier to attract top talent to the organization. A website can be become a powerful tool for recruiting by incorporating the features:
 <ul><li>Your company’s history.</li>
 <li>An easy way to look at open positions.</li>
 <li>Display the current work and achievements of the firm.</li>
 <li>Introduce the management team.</li></ul>
 
 ## **Check references when recruiting employees**
-Even if a candidate is the best match for the job and you are super excited to onboard them, make sure you devote time to do background check of the employees. The benefits of checking references are numerous:
+Eventhough an applicant is the best match for the job and you are super excited to onboard them, make sure to devote time to do background check of the prospective employee.The benefits of checking references will reinstate the decision made for the organization:
 <ul><li>It helps in verifying the information already provided by the applicant.</li>
 <li>Offers additional information on an applicant’s skills, performance, knowledge and work history from a source other than the candidate themselves.</li>
 <li>Helps you assess the applicant’s potential for success in the position.</li>
@@ -98,7 +99,7 @@ Even if a candidate is the best match for the job and you are super excited to o
 <li>Protects the organization from claims of negligent hiring.</li></ul>
 
 ## **Remote Working**
-When COVID-19 forced companies all over the world to send their employees home   to work virtually, remote work had a big moment. Working remotely can give employees the time and environment needed to make healthy choices:
+When COVID-19 forced companies all over the world to send their employees home to work virtually, remote work had a big moment. Working remotely can give employees the time and environment needed to make healthy choices:
 <ul><li>Better Work-Life Balance as it offers flexible schedules to employees.</li> 
 <li>Less Commute Stress and hence employees get more time to care for their mental and physical well being.</li>
 <li>Location Independence offers broader range of job opportunities that aren’t limited by geographic location.</li>
