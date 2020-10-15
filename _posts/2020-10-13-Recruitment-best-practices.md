@@ -17,7 +17,7 @@ Diverse candidate pool will flock top talent to your organization which can be a
 
 ## **Diversity and Inclusion**
 Diversity and Inclusion is the latest trend as diverse executive boards generate better returns for the organization. Diverse groups bring breadth of mind and opinion and are generally happier thus leading to lower attrition rates. Diverse groups produce more revenue and are more agile. Folowing are the different ways in which you can ensure you are sourcing candidates diversely:
-<ul><li>Look in the right places by posting on websites and forums like Diversity Jobs, Hire Autism and Pink Jobs that cater to diverse and wide range of talent.</li> 
+<ul><li>Look in the right places by posting on websites and forums like <i><span style="color:blue;">Diversity Jobs, Hire Autism and Pink Jobs</span></i> that cater to diverse and wide range of talent.</li> 
 <li>Write an inclusive job description.</li>
 <li>Make your commitment to diversity clear on the careers site.</li>
 <li>Teach yourself how to avoid unconscious biases.</li>
@@ -26,9 +26,9 @@ Diversity and Inclusion is the latest trend as diverse executive boards generate
 ##	**Technological Trends**
 Here are technological trends that recruiting professionals need to take advantage of in their quest to attracting the top talent:
 <ul><li>Recruiters are turning to recruitment software to help them increase the efficiency of the process.Most of the organizations are using some form of 
-Applicant Tracking Systems (ATS). ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
-<li>Hiring Managers are using Big data analysis to provide insights to businesses to make strategic hiring decisions.In HR, utilizing a data-driven approach to people analytics allows employers to discover valuable insights on employee performance and satisfaction and what influences their productivity and motivation.</li>
-<li>Artificial intelligence(AI) is being used to take care of your most repetitive tasks like CV screening, searching candidates that match criteria like LinkedIn recruiter which is an AI enabled recruitment software. Other AI-based technologies – Chatbots – helps you respond to different candidate questions. AI helps reduce the workload, especially where you have to handle repetitive tasks. And, that simplifies your job, improves the general ‘customer’ experience and also leads to huge savings of time resource.</li></ul>
+<i><span style="color:blue;">Applicant Tracking Systems (ATS)</span></i>.ATS help document employee records, and the associated recruitment history and activity. And most importantly, it helps ensure compliance under different state laws that government talent recruitment and onboarding processes.</li>
+<li>Hiring Managers are using <i><span style="color:blue;">Big data analysis</span></i> to provide insights to businesses to make strategic hiring decisions.In HR, utilizing a data-driven approach to<i><span style="color:blue;">people analytics</span></i> allows employers to discover valuable insights on employee performance and satisfaction and what influences their productivity and motivation.</li>
+<li><i><span style="color:blue;">Artificial intelligence(AI)</span></i> is being used to take care of your most repetitive tasks like CV screening, searching candidates that match criteria like LinkedIn recruiter which is an AI enabled recruitment software. Other AI-based technologies – Chatbots – helps you respond to different candidate questions. AI helps reduce the workload, especially where you have to handle repetitive tasks. And, that simplifies your job, improves the general ‘customer’ experience and also leads to huge savings of time resource.</li></ul>
 
 ## **Hire the Best Fit when recruiting employees**
 *“As Past Behavior is a predictor of future behavior”*, it is best to look for proven record of applicants with good background in place of selecting potential candidates. Look out for the following traits in the applicants:
@@ -48,7 +48,7 @@ If you hire candidates from an outside source first , existing staff may get dem
 
 ## **Employer Branding/Recruitment Marketing**
 If your organization has a good reputation and image in market, top talent will automatically be interested in vacancies in the firm. Employer Branding or recruitment marketing can be achieved using the following ways: 
-<ul><li>Know your company’s unique value proposition or EVP which includes salary,compensation and benefits (supplementary compensation, values, mission & purpose, people and culture)</li>
+<ul><li>Know your company’s unique value proposition or <i><span style="color:blue;">Employee Value Propsition (EVP)</span></i> which includes <b>salary,compensation and benefits (supplementary compensation, values, mission & purpose, people and culture)</b></li>
 <li>Conduct an employer brand audit.</li>
 <li>Write an employee value proposition.</li>
 <li>Leverage current employees.</li>
@@ -73,7 +73,7 @@ Make sure to stay on top of industry trends regarding compensation, and make sur
 <li>Project positive image of the company. </li></ul>
 
 ## **Use the benefits the firm offers to your advantage in recruiting employees**
-Everything other than pay package ranging from reimbursement for continuing education to vacation discounts, PTO,401k, health benefits which includes HSAs, FSAs & HRAs and free snacks/meals can help attract top talent and sway them your way when making a job decision. Organizations can take the help of a <i><span style="color:blue;">Professional Employer organization(PEO)</span></i>which can help with the benefits
+Everything other than pay package ranging from reimbursement for continuing education to vacation discounts, PTO,401k, health benefits which includes HSAs, FSAs & HRAs and free snacks/meals can help attract top talent and sway them your way when making a job decision. Organizations can take the help of a <i><span style="color:blue;">Professional Employer organization(PEO)</span></i> which can help with the benefits
 
 ## **Hire the Person best fit for the role you can Find**
 It is best to use the approach mentioned here for finding the smartest person you can find. *“Hire for strengths; don’t expect to develop weak areas of performance, habits, and talents. Build on what is great about your new employee in the first place.”* 
