@@ -4,8 +4,8 @@ title: Recruitment Strategies and New Trends
 
 ![](<../images/Recruiting-Trends-A-Strategic-Approach-To-Talent-Acquisition.png>)
 
-<p>In today’s world of rapid technological advancement and its unique set of challenges like the ongoing pandemic, recruitment has become very difficult. Hiring employees has become much more difficult now than at any other time in modern history, mainly for two reasons. 
-The first is that openings are now filled more often by hiring from an outside source than by promoting from within. Less promotion internally means that hiring efforts are no longer concentrated on entry-level jobs and recent graduates. The second reason hiring is so difficult is that employee retention has become tough.</p>
+In today’s world of rapid technological advancement and its unique set of challenges like the ongoing pandemic, recruitment has become very difficult. Hiring employees has become much more difficult now than at any other time in modern history, mainly for two reasons. 
+The first is that openings are now filled more often by hiring from an outside source than by promoting from within. Less promotion internally means that hiring efforts are no longer concentrated on entry-level jobs and recent graduates. The second reason hiring is so difficult is that employee retention has become tough.
 
 Here are some best practices in recruitment which can be implemented in your organization to improve hiring of talented candidates:
 
