@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-Hey there! This page is included as an example. Feel free to customize it for
-your own use.
+Hello there! My name is Jesna Mathews and I am passionate about Human Resources and strongly believe that dedication, collaboration and hardwork can improve the working place and inspire organizational change and development. 
 
-Follow [instructions](<http://www.texts.io/support/0017/>) to publish your blog
-on GitHub Pages.
+
