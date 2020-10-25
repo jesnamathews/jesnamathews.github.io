@@ -1,80 +1,20 @@
 ---
-title: Texts + GitHub Pages = Blog
+title: People Analytics 
 ---
+The Human resources department doesn't have a reputation of bringing financial gains to the organization like marketing and sales.HR Analytics is a data driven approach to managing people at work.
+You dont have to rely on your gut feeling anymore.Merely having data is not enough,you should be able to transform data and organizational data by applying appropriate interventions and improvethe way you do business and anticipate future developments.
 
-Follow simple [instructions](<http://www.texts.io/support/0017/>) to publish
-your blog on GitHub Pages and write posts in Texts.
+Here are some applications of People Analytics
+## **Link recruiting to financial gains
+This can be done by focussing on the quality of hire which are determined by parameters like New Hire Retention,Time to fill and Hiring satisfaction.
 
-Texts is “rich editor for plain text”—you can write documents in visual
-interface and they will be saved in plain text format with Markdown markup. This
-document shows some of the styles available in Texts.
+## **Increase employee retention## **
+Retention starts when you start  recruiting 
 
-Images
-------
+## **Strategic workforce plan## **
 
-![](<../images/radcliffe-camera.jpg>)
+## **Set your goals based on diversity and inclusion## **
 
-Math
-----
+## **Maximize performance## **
 
-Formulas can be placed inline like $$E=mc^2$$ or in a separate paragraph, like
-the following one. Standard LaTeX syntax is supported.
-
-$$
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-$$
-
-Code
-----
-
-Inline `code` gets monospaced font.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Press “Enter” key inside code block to insert a line break or “Shift+Enter” to
-end code block.
-
-Footnotes
----------
-
-Notes can be placed anywhere[^1] in the source file. When document is published
-to a paper-oriented format (PDF or Word) footnotes are displayed at the bottom
-of the page. E-book readers usually display notes in popups.
-
-[^1]: Yes, right here.
-
-Lists
------
-
--   First bulleted item.
-
--   Second bulleted item.
-
-Lists can be styled via menu, keyboard shortcut, or using autoformatting: type
-minus and space for bulleted item or “1”, point and space for numbered item.
-Press “Tab” to indent paragraph and create subitem, “Shift+Tab” to unindent.
-
-1.  First numbered item.
-
-2.  Second numbered item.
-
-Tables
-------
-
-| **Features** | **Editable in Texts** | **Export to PDF** | **Export to HTML** |
-|--------------|-----------------------|-------------------|--------------------|
-| Basic Styles | ✓                     | ✓                 | ✓                  |
-| Footnotes    | ✓                     | ✓                 | ✓                  |
-| Images       | ✓                     | ✓                 | ✓                  |
-| Tables       | ✓                     | ✓                 | ✓                  |
-
-Happy writing!
-==============
-
-Got a question? Visit <http://www.texts.io/>.
+## **Improve your learning investment## **
