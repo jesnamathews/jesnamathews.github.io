@@ -7,7 +7,7 @@ People Analytics is a data driven approach to managing people at work.You dont h
 There are different applications of People Analytics.Some of the applications are listed here
 
 ## **Link recruiting to financial gains**
-This can be done by focussing on the quality of hire which shows rthe effectiveness of a companys hiring process.Measuring quality of hire helps you measure the value employees bring to your company. Quality of hire includes many metrics that can vary for different businesses.
+This can be done by focussing on the quality of hire which shows the effectiveness of a companys hiring process.Measuring quality of hire helps you measure the value employees bring to your company. Quality of hire includes many metrics that can vary for different businesses.
 Quality of Hire is determined by recruiting metrics like New Hire Retention,Time to fill and Hiring satisfaction.
 <ul><li>The Time to fill metric takes the total jobs filled by the person, team, or recruitment channel and divides the number by the total jobs assigned to that
 person, team, or channel to fill.</li>
