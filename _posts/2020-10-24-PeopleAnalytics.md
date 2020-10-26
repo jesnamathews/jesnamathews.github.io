@@ -2,7 +2,7 @@
 title: People Analytics 
 ---
 The Human resources department doesn't have a reputation of bringing financial gains to the organization like marketing and sales.
-People Analytics is a data driven approach to managing people at work.You dont have to rely on your gut feeling anymore.Merely having data is not enough,you should be able to transform data and organizational data by applying appropriate interventions and improvethe way you do business and anticipate future developments.
+People Analytics is a data driven approach to managing people at work.You dont have to rely on your gut feeling anymore.Merely having data is not enough,you should be able to transform data and organizational data by applying appropriate interventions and improve the way you do business and anticipate future developments.
 
 There are different applications of People Analytics.Some of the applications are listed here
 
